@@ -38,6 +38,4 @@ Notes & encouraged practices
 - Use meaningful file and class names (already applied in starter files).
 - Test responsiveness by resizing your browser or using device emulation tools.
 
-If you want, I can also:
-- Help you create a GitHub repo and push these files.
-- Walk you through enabling GitHub Pages and generating the ZIP.
+
