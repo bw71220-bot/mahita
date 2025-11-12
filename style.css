@@ -1,9 +1,7 @@
-/* Basic reset and variables */
-:root{
-  /* New teal/green palette */
-  --bg:#79cfde; /* very light mint */
-  --accent:#03695d; /* teal */
-  --muted:#26879a; /* lighter teal for accents */
+
+  --bg:#79cfde; 
+  --accent:#03695d; 
+  --muted:#26879a; 
   --max-width:1000px;
   --gap:1rem;
 }
@@ -52,3 +50,4 @@ body{font-family:Segoe UI, Roboto, Arial, sans-serif;margin:0;color:#7307b1;back
 .inline-modal pre{white-space:pre-wrap;word-break:break-word;padding:1rem;overflow:auto;max-height:80vh}
 .inline-modal.show{display:flex}
 .inline-modal-overlay.show{display:flex}
+
