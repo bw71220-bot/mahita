@@ -1,4 +1,3 @@
-// Small helpers for all pages
 (function(){
   // set current year in footers
   function setYears(){
@@ -104,4 +103,5 @@
         });
     });
   }
+
 })();
